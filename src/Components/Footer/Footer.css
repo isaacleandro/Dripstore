@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+#logo {
+    width: 6vh;
+    height: 3vw;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.86);
+    color: white;
+    font-size: 12px;
+}
